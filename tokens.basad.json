@@ -1,0 +1,51 @@
+{
+  "global": {
+    "Base": {
+      "Red-200": {
+        "value": "#fd6868",
+        "type": "color"
+      },
+      "Red-100": {
+        "value": "#feaeae",
+        "type": "color"
+      },
+      "Red-300": {
+        "value": "#fc3636",
+        "type": "color"
+      },
+      "Red-400": {
+        "value": "#ee0303",
+        "type": "color"
+      },
+      "Black-100": {
+        "value": "#b7b7b7",
+        "type": "color"
+      },
+      "Black-200": {
+        "value": "#8d8d8d",
+        "type": "color"
+      },
+      "Black-300": {
+        "value": "#505050",
+        "type": "color"
+      },
+      "Black-400": {
+        "value": "#222121",
+        "type": "color"
+      }
+    },
+    "Especificos": {
+      "Color-bg-series": {
+        "value": "{Base.Red-300}",
+        "type": "color",
+        "description": "Este color se utiliza..."
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
